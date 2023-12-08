@@ -1,0 +1,6 @@
+class Solution {
+    fun solution(age: Int){
+        var answer: Int = 0
+        return println("2023년 기준 ${age}살이므로 ${2023-age+1} 년생 입니다")
+    }
+}
